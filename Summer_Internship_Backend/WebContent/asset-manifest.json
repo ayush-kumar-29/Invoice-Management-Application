@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/1705129/static/css/main.7f5bf2ec.chunk.css",
+    "main.js": "/1705129/static/js/main.1b3d2353.chunk.js",
+    "main.js.map": "/1705129/static/js/main.1b3d2353.chunk.js.map",
+    "runtime-main.js": "/1705129/static/js/runtime-main.4c0d8c29.js",
+    "runtime-main.js.map": "/1705129/static/js/runtime-main.4c0d8c29.js.map",
+    "static/js/2.00b592fb.chunk.js": "/1705129/static/js/2.00b592fb.chunk.js",
+    "static/js/2.00b592fb.chunk.js.map": "/1705129/static/js/2.00b592fb.chunk.js.map",
+    "index.html": "/1705129/index.html",
+    "precache-manifest.0ed2d5254ac2a31a1572d4397c0e2bdc.js": "/1705129/precache-manifest.0ed2d5254ac2a31a1572d4397c0e2bdc.js",
+    "service-worker.js": "/1705129/service-worker.js",
+    "static/css/main.7f5bf2ec.chunk.css.map": "/1705129/static/css/main.7f5bf2ec.chunk.css.map",
+    "static/js/2.00b592fb.chunk.js.LICENSE.txt": "/1705129/static/js/2.00b592fb.chunk.js.LICENSE.txt",
+    "static/media/companyLogo.svg": "/1705129/static/media/companyLogo.593dca1a.svg",
+    "static/media/mag-glass.svg": "/1705129/static/media/mag-glass.9a910b43.svg",
+    "static/media/send-24px.svg": "/1705129/static/media/send-24px.77a51d72.svg",
+    "static/media/voiceIcon.svg": "/1705129/static/media/voiceIcon.62543aad.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c0d8c29.js",
+    "static/js/2.00b592fb.chunk.js",
+    "static/css/main.7f5bf2ec.chunk.css",
+    "static/js/main.1b3d2353.chunk.js"
+  ]
+}
